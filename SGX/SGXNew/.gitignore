@@ -1,0 +1,5 @@
+/app
+/enclave.signed.so
+/enclave.so
+*_u*
+*_t*
